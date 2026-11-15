@@ -1,0 +1,13 @@
+{
+  "type": "yggdrasil:sanctum",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "yggdrasil:astral",
+      "features": false,
+      "lakes": false,
+      "layers": [],
+      "structure_overrides": []
+    }
+  }
+}

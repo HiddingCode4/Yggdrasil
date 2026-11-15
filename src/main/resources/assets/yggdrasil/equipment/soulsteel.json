@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "yggdrasil:soulsteel"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "yggdrasil:soulsteel"
+      }
+    ]
+  }
+}

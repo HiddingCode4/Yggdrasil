@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "yggdrasil:hrimsteel_sword",
+    "yggdrasil:sunbronze_sword",
+    "yggdrasil:oathsilver_sword",
+    "yggdrasil:soulsteel_sword"
+  ]
+}

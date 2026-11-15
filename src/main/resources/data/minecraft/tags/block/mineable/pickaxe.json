@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "yggdrasil:hrimsteel_ore",
+    "yggdrasil:hrimsteel_block",
+    "yggdrasil:hrimsteel_table",
+    "yggdrasil:sunbronze_ore",
+    "yggdrasil:sunbronze_block",
+    "yggdrasil:sunbronze_table",
+    "yggdrasil:oathsilver_ore",
+    "yggdrasil:oathsilver_block",
+    "yggdrasil:oathsilver_table",
+    "yggdrasil:soulsteel_ore",
+    "yggdrasil:soulsteel_block",
+    "yggdrasil:soulsteel_table",
+    "yggdrasil:distiller",
+    "yggdrasil:condenser",
+    "yggdrasil:spectral_lantern",
+    "yggdrasil:boss_altar",
+    "yggdrasil:secret_gate",
+    "yggdrasil:commission_board"
+  ]
+}

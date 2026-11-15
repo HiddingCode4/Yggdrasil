@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "LSL",
+    " A "
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "L": "minecraft:lapis_lazuli",
+    "S": "minecraft:chiseled_stone_bricks"
+  },
+  "result": {
+    "id": "yggdrasil:engraved_stone",
+    "count": 4
+  }
+}

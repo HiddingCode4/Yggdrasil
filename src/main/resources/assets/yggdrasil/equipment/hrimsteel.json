@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "yggdrasil:hrimsteel"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "yggdrasil:hrimsteel"
+      }
+    ]
+  }
+}

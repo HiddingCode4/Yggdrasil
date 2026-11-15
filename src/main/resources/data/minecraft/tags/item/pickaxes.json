@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "yggdrasil:hrimsteel_pickaxe",
+    "yggdrasil:sunbronze_pickaxe",
+    "yggdrasil:oathsilver_pickaxe",
+    "yggdrasil:soulsteel_pickaxe"
+  ]
+}

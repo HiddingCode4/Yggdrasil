@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "I I",
+    "OFO"
+  ],
+  "key": {
+    "I": "yggdrasil:sunbronze_ingot",
+    "C": "minecraft:cauldron",
+    "O": "minecraft:copper_ingot",
+    "F": "minecraft:furnace"
+  },
+  "result": {
+    "id": "yggdrasil:distiller",
+    "count": 1
+  }
+}

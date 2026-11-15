@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "ALA",
+    " I "
+  ],
+  "key": {
+    "I": "yggdrasil:oathsilver_ingot",
+    "A": "minecraft:amethyst_shard",
+    "L": "minecraft:soul_lantern"
+  },
+  "result": {
+    "id": "yggdrasil:spectral_lantern",
+    "count": 1
+  }
+}

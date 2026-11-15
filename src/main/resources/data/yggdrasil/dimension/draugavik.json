@@ -1,0 +1,11 @@
+{
+  "type": "yggdrasil:draugavik",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "yggdrasil:draugavik",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "yggdrasil:draugavik"
+    }
+  }
+}

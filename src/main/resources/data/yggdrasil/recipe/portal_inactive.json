@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": "minecraft:stone_bricks",
+    "M": "minecraft:mossy_stone_bricks",
+    "A": "minecraft:amethyst_shard"
+  },
+  "pattern": [
+    "SMS",
+    "AMA",
+    "SMS"
+  ],
+  "result": {
+    "id": "yggdrasil:portal_inactive",
+    "count": 1
+  }
+}

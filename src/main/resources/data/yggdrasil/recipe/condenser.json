@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "GBG",
+    "III"
+  ],
+  "key": {
+    "I": "minecraft:copper_ingot",
+    "G": "minecraft:glass",
+    "B": "minecraft:bucket"
+  },
+  "result": {
+    "id": "yggdrasil:condenser",
+    "count": 1
+  }
+}

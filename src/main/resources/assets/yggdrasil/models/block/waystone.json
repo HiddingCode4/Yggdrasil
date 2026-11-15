@@ -1,0 +1,11 @@
+{
+  "loader": "neoforge:obj",
+  "model": "yggdrasil:models/block/waystone.obj",
+  "flip_v": false,
+  "automatic_culling": false,
+  "shade_quads": true,
+  "textures": {
+    "surface": "yggdrasil:block/waystone",
+    "particle": "#surface"
+  }
+}

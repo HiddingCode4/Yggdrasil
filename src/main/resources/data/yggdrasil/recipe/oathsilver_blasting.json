@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": "yggdrasil:oathsilver_raw",
+  "result": {
+    "id": "yggdrasil:oathsilver_ingot"
+  },
+  "experience": 1,
+  "cookingtime": 100
+}

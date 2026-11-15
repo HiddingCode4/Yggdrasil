@@ -1,0 +1,11 @@
+{
+  "loader": "neoforge:obj",
+  "model": "yggdrasil:models/block/portal_active.obj",
+  "flip_v": false,
+  "automatic_culling": false,
+  "shade_quads": true,
+  "textures": {
+    "surface": "yggdrasil:block/portal_active",
+    "particle": "#surface"
+  }
+}

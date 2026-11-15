@@ -1,0 +1,21 @@
+Yggdrasil 2.0.0-alpha.2 — validation serveur et ressources
+Minecraft 26.3 / NeoForge 26.3.0.102 / Java 25
+
+Tests : brouillard (quatre limites de rendu), cinq géométries de gardiens, clic et textures OBJ, quatre minerais générés, campagne complète, récompenses personnelles pour deux joueurs, réinvocation, apparition enregistrée, ingrédient garanti et blizzard constant.
+
+Pas de validation visuelle dans un client Minecraft ni de compatibilité avec les shaders. La tornade est une projection décorative dans le ciel. Les boss conservent des animations humanoïdes.
+
+PRIMARY_CLICK_PASS Minecraft 26.3 left button=1
+DRAKE_MODEL_PASS head/body/wings/tail geometry baked
+FOG_BUFFER_PASS all four fog endpoints updated; GUARDIAN_MODELS_PASS five silhouettes baked
+TEXTURE_SLOT_PASS waystone -> yggdrasil:block/waystone
+TEXTURE_SLOT_PASS portal_active -> yggdrasil:block/portal_active
+TEXTURE_SLOT_PASS portal_inactive -> yggdrasil:block/portal_inactive
+ORE_GENERATION_PASS hrimsteel blocks=109
+ORE_GENERATION_PASS sunbronze blocks=110
+ORE_GENERATION_PASS oathsilver blocks=94
+ORE_GENERATION_PASS soulsteel blocks=114
+PATCH2_SELFTEST_PASS multiplayer souls, boss resummon, creature spawn, offering loot, constant blizzard
+CAMPAIGN_SELFTEST_PASS: mana progression, original gate reuse, rune payments, distillation, boss drops, building reward, owned drake.
+YGGDRASIL_SELFTEST_PASS: seven map destinations, six custom dimensions, hub, path, rooms, forge, kitchen, gates.
+BUILD SUCCESSFUL in 25s

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": "yggdrasil:oathsilver_ingot"
+  },
+  "result": {
+    "id": "yggdrasil:oathsilver_chestplate",
+    "count": 1
+  }
+}

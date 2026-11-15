@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IAI",
+    "IEI",
+    "IOI"
+  ],
+  "key": {
+    "I": "yggdrasil:soulsteel_ingot",
+    "A": "minecraft:amethyst_block",
+    "E": "minecraft:enchanting_table",
+    "O": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "yggdrasil:soulsteel_table",
+    "count": 1
+  }
+}

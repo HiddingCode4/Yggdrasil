@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": "yggdrasil:soulsteel_raw",
+  "result": {
+    "id": "yggdrasil:soulsteel_ingot"
+  },
+  "experience": 1,
+  "cookingtime": 100
+}

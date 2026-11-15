@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "ASA",
+    " A "
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "S": "yggdrasil:engraved_stone"
+  },
+  "result": {
+    "id": "yggdrasil:runic_offering",
+    "count": 1
+  }
+}

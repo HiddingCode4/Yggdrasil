@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "I I"
+  ],
+  "key": {
+    "I": "yggdrasil:sunbronze_ingot"
+  },
+  "result": {
+    "id": "yggdrasil:sunbronze_helmet",
+    "count": 1
+  }
+}

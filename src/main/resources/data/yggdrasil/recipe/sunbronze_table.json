@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IAI",
+    "IEI",
+    "IOI"
+  ],
+  "key": {
+    "I": "yggdrasil:sunbronze_ingot",
+    "A": "minecraft:amethyst_block",
+    "E": "minecraft:enchanting_table",
+    "O": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "yggdrasil:sunbronze_table",
+    "count": 1
+  }
+}

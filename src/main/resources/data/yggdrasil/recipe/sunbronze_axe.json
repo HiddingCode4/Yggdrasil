@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "II ",
+    "IS ",
+    " S "
+  ],
+  "key": {
+    "I": "yggdrasil:sunbronze_ingot",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "yggdrasil:sunbronze_axe",
+    "count": 1
+  }
+}

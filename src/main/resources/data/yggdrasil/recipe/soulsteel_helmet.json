@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "I I"
+  ],
+  "key": {
+    "I": "yggdrasil:soulsteel_ingot"
+  },
+  "result": {
+    "id": "yggdrasil:soulsteel_helmet",
+    "count": 1
+  }
+}

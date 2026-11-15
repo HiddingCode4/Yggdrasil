@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": "yggdrasil:soulsteel_ingot"
+  },
+  "result": {
+    "id": "yggdrasil:soulsteel_chestplate",
+    "count": 1
+  }
+}

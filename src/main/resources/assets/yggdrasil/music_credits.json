@@ -1,0 +1,21 @@
+{
+  "studio": "FourthRuneStudio",
+  "tracks": [
+    {
+      "event": "campaign.boss",
+      "title": "Musique Minecraft provisoire",
+      "creator": "Crédits personnalisés à fournir"
+    },
+    {
+      "event": "campaign.return",
+      "title": "Musique Minecraft provisoire",
+      "creator": "Crédits personnalisés à fournir"
+    },
+    {
+      "event": "campaign.finale",
+      "title": "Musique Minecraft provisoire",
+      "creator": "Crédits personnalisés à fournir"
+    }
+  ],
+  "feedback_url": ""
+}

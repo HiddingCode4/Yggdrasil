@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "yggdrasil:hrimsteel_chestplate",
+    "yggdrasil:sunbronze_chestplate",
+    "yggdrasil:oathsilver_chestplate",
+    "yggdrasil:soulsteel_chestplate"
+  ]
+}
