@@ -1,5 +1,7 @@
 # SworldCraft — Yggdrasil 2.0.0-alpha.2
 
+![Yggdrasil — Realms of the Ancients](Logo.png)
+
 Première version jouable de la campagne demandée. **Minecraft 26.3 — NeoForge 26.3.0.102 — Java 25.** Le même JAR doit être installé côté client et serveur. Aucun autre mod obligatoire. Choisissez une difficulté non paisible pour les combats de gardiens.
 
 Cette version ajoute une progression, de nouvelles données de génération et des entités : commencez sur un nouveau monde de test ou une copie de votre sauvegarde. Les minerais apparaissent dans les nouveaux chunks. Les sanctuaires sont ajoutés une fois à la première visite de chaque royaume. La carte illustrée est conservée.
@@ -158,6 +160,17 @@ Modèles de la waystone et des portails, carte : éléments fournis par le créa
 - Les spectres évitent les zones protégées par la lumière / lanterne plutôt que d’être supprimés. Les apparitions recherchent un emplacement valide.
 - Tornade décorative projetée dans le ciel depuis un point fixe x260, z65 : indépendante de la limite des particules et du brouillard du terrain. Sans dégâts. À valider visuellement avec le client et les shaders.
 - Nouvelles textures 32px : minerais, ressources brutes, lingots, blocs métalliques, tables et icônes armes/outils/armures. Les textures portées sur le joueur restent celles de l’alpha précédente.
+- ## The World Tree
+![Bridge to Yggdrasil](bridge.png)
+
+## Ancient Portals
+![Ancient portal](portal.png)
+
+## The Great Waystone
+![Yggdrasil waystone](waystone.png)
+
+## Explore the Realms
+![Realm map](map.png)
 - Composant d’offrande garanti sur les créatures du royaume et âmes distribuées individuellement aux joueurs proches du boss.
 
 Ce correctif fonctionne sur les chunks déjà explorés : aucune régénération nécessaire pour ces changements. Remplacer l’ancien JAR des deux côtés. Les identifiants des anciens gardiens sont conservés pour les sauvegardes existantes.
